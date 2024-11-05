@@ -1,1 +1,8 @@
 data/titanic
+*/*.pyc
+*cache*
+.venv
+*.pkl
+*.h5
+*.keras
+*.csv
