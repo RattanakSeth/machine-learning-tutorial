@@ -1,0 +1,20 @@
+
+Text Classification Report
+
+Features:
+- Count of positive words
+- Count of negative words
+- Binary feature: whether the review contains the word 'no'
+- Count of 1st and 2nd pronouns ('I', 'me', 'my', 'you', 'your')
+- Binary feature: whether the review contains '!'
+- Logarithm of the review length
+
+Models Implemented:
+- Logistic Regression
+- Naive Bayes
+- Random Forest
+
+Results:
+Logistic Regression: 0.8031
+Naive Bayes: 0.8019
+Random Forest: 0.7963
