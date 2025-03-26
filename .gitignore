@@ -1,4 +1,4 @@
-data/titanic
+data/*
 */*.pyc
 *cache*
 .venv
@@ -6,3 +6,14 @@ data/titanic
 *.h5
 *.keras
 *.csv
+gpu_computing/audio_mnist/AudioMNIST/recordings/*
+gpu_computing/image_loads/500images/*
+*/data/*
+**/*.pth
+**/*.gz
+**/*.zip
+**/*.tgz
+**/data/*
+
+# intelliJ
+.idea
