@@ -1,24 +1,27 @@
 # machine-learning-tutorial
-Learning with Sample code, and write your own code.
+Learning with Sample code, and write your own code. Come back to university to study with lecturer and professor come from different country both European and Asian country at CADT, MCS in AI&DS
 
-# Probability, Statistic, and Math for Machine Learning
+## Probability, Statistic, and Math for Machine Learning
 - Lecturer: Dr. Pheak Neang
 
-# Fundamental of Machine Learning
+## Fundamental of Machine Learning
 - Lecturer: Dr. Dona Valy
 - Inside fundamental_ml
 
-# Natural Language Processing
+## Natural Language Processing
 - Assoc. Prof. Dr. Dona Valy
 - Inside: NLP
 
-# GPU Computing 
+## GPU Computing 
 - Prof. Dominique
 - Folder: gpu_computing
 
-# Advanced Machine Learning
-- Lecturer: Waranrach Viriyavit
+## Advanced Machine Learning
+- Lecturer: Waranrach Viriyavit (PHD)
 - Folder: advanced_machine_learning
+
+## ACROSS LAB
+- Agent-based modelling: record data from simulation and plot it as graph visualisation
 
 Package I used:
 - sklearn
@@ -26,7 +29,7 @@ Package I used:
 - pip install modAL
 - ........
 
-# Project configuration
+## Project configuration
 - First, I used pyenv and create .env python in this folder to use.
 - Then, the best solution is I used mini conda which install and use globally. It has many benefits such as optimize package, global use (reducible package), using conda and pip at the same time, resolving conflict package. Most package in conda is not up-to-date, but you can use "pip install .." in conda env, it will install package that managed by PYPI. It is really helpful and adaptable.
 
